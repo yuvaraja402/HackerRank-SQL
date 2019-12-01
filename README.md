@@ -1,7 +1,7 @@
 # HackerRank-SQL
-All HackerRank questions will be solved one by one and posted here.
+All HackerRank **SQL questions** will be solved one by one and posted here.
 
-Questions solved on Sub-Domain basis.
+Questions solved on **Sub-Domain** basis.
 1. Basic Select
 2. Advanced Select
 3. Aggregation
